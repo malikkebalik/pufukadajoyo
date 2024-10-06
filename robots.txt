@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://pufukadajoyo.pages.dev/sitemap.xml
